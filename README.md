@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Nessie
 
 
-[![Adainish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adainish)](https://github.com/adainish/github-github-stats)
+[![Adainish's GitHub stats](https://vercel.com/adainish/github-stats/api?username=adainish)](https://github.com/adainish/github-stats)
