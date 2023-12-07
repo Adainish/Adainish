@@ -4,7 +4,7 @@
 - 💬 Ask me about Baking
 - 📫 How to reach me: Discord: Adenydd
 - 😄 Pronouns: She/Her They/Them
-- ⚡ Fun fact: Nessie
+- ⚡ Fun fact: [Nessie](https://apexlegends.fandom.com/wiki/Nessie)
 
 
 <a href="https://github-readme-stats-loq27m84k-adainishs-projects.vercel.app">
