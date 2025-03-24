@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Minecraft Mods & Studying computer science
+- 🔭 I’m currently working on Minecraft Mods & Working as a Java Engineer
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Baking
 - 📫 How to reach me: Discord: Adenydd
